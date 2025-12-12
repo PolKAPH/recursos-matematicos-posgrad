@@ -1,6 +1,6 @@
 # 📚 Solucionários de Análise em ℝⁿ e Algoritmos Aplicados
 
-**Recurso acadêmico colaborativo e sem fins lucrativos** para estudantes do mestrado em Matemática.
+**Recurso acadêmico colaborativo e sem fins lucrativos** para estudantes do mestrado em Matemática da UFPR.
 
 ---
 
@@ -13,15 +13,19 @@ Exercícios resolvidos baseados em:
 - **Elon Lages Lima** - *Curso de Análise, Volume 2*
 - Exames de qualificação do PPGM-UFPR
 
-📥 **[Baixar Gabarito - Topologia e Continuidade](./Gabarito_Analyse_Rn__Topologia_em_Rn_e_Co)**
+📥 **[Baixar Gabarito](./Gabarito_Analise_Rn___Topologia_em_Rn_e_Continuidade.pdf)**
+
+---
 
 ### 2️⃣ Diferencabilidade I
 
-📥 **[Baixar Gabarito - Diferencabilidade I](./Gabarito_Analyse_Rn__Diferencabilidade_I.pdf)**
+📥 **[Baixar Gabarito](./Gabarito_Analise_Rn___Diferenciabilidade_I.pdf)**
+
+---
 
 ### 3️⃣ Diferencabilidade II
 
-📥 **[Baixar Gabarito - Diferencabilidade II](./Gabarito_Analyse_Rn__Diferencabilidade_II.pdf)**
+📥 **[Baixar Gabarito](./Gabarito_Análise_Rn___Diferenciabilidade_II.pdf)**
 
 ---
 
@@ -51,10 +55,6 @@ Este repositório é um **espaço de compartilhamento colaborativo** criado para
    - Crie um [Pull Request](https://github.com/PolKAPH/analisis-solucoes/pulls)
    - Sua contribuição será revisada e incorporada
 
-3. **Sugerir novos conteúdos:**
-   - Abra uma [Issue](https://github.com/PolKAPH/analisis-solucoes/issues)
-   - Descreva sua sugestão de forma clara
-
 ---
 
 ## 📜 Licença
@@ -82,6 +82,13 @@ Este material é composto por:
 - 🎓 Material desenvolvido em cursos acadêmicos
 
 Compartilhado **exclusivamente com fins educacionais** na comunidade PPGM-UFPR.
+
+---
+
+**Última atualização:** Dezembro de 2025  
+**Status:** Recurso ativo e aberto a contribuições  
+**Instituição:** UFPR - Universidade Federal do Paraná
+
 
 ---
 
