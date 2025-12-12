@@ -6,12 +6,13 @@
 
 ## 📋 Conteúdo
 
-### 1️⃣ Análise em ℝⁿ - Topologia e Continuidade
-
 Exercícios resolvidos baseados em:
 - **Ronaldo Freire de Lima** - *Topologia e Análise no Espaço ℝⁿ*
 - **Elon Lages Lima** - *Curso de Análise, Volume 2*
 - Exames de qualificação do PPGM-UFPR
+- 
+### 1️⃣ Análise em ℝⁿ - Topologia e Continuidade
+---
 
 📥 **[Baixar Gabarito](./Gabarito_Analise_Rn___Topologia_em_Rn_e_Continuidade.pdf)**
 
