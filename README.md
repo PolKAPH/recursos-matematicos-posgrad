@@ -24,7 +24,6 @@ Analise-Complexa/
 Analise-Funcional/
 Equacoes-Diferenciais/
 Otimizacao/
-Machine-Learning/
 ```
 
 Cada pasta poderá conter notas, solucionários, referências e códigos relacionados ao tema.
